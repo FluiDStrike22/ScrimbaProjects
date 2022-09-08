@@ -1,0 +1,73 @@
+body {
+  background-color: #1c1c1c;
+  font-family: 'Karla', sans-serif;
+  color:white;
+}
+
+#main-container {
+  background-color: #1F2937;
+  width:550px;
+  height:550px;
+  margin-left: auto;
+  margin-right:auto;
+}
+
+
+h1{
+  width:400px;
+  padding-top:50px;
+  margin-left:50px;
+  font-size:40px;
+}
+
+span {
+  color:#4ADF86;
+}
+
+#sub-text {
+  margin-left:50px;
+  font-size:20px;
+  font-family: 'Inter', sans-serif;
+}
+
+#generate-pass {
+  background-color: #10B981;
+  font-size:16px;
+  font-family: 'Inter', sans-serif;
+  color:white;
+  padding: 9px 17px 9px 15px;
+  border-radius: 6px;
+  box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.05);
+  margin-left:50px;
+  margin-bottom:30px;
+  border:none;
+}
+
+#line-break {
+  border: 1px solid #2F3E53;
+  width:83%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#pass-container {
+  width:83%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+#pass-container > p {
+  display:inline-block;
+  background: #273549;
+  border-radius: 6px;
+  width:49%;
+  height:30px;
+  margin-top:20px;
+  text-align: center;
+  padding-top:15px;
+  color:#55F991;
+}
+
+#option-two {
+  margin-left:5px;
+}
